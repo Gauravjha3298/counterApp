@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/static/js/main.010b2937.js",
-    "index.html": "/index.html",
-    "main.010b2937.js.map": "/static/js/main.010b2937.js.map"
+    "main.js": "https://gauravjha3298.github.io/counterApp/static/js/main.010b2937.js",
+    "index.html": "https://gauravjha3298.github.io/counterApp/index.html",
+    "main.010b2937.js.map": "https://gauravjha3298.github.io/counterApp/static/js/main.010b2937.js.map"
   },
   "entrypoints": [
     "static/js/main.010b2937.js"
